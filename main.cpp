@@ -297,7 +297,7 @@ void menu() {
     while (running) {
         std::cout << "\n1 - Считать граф из файла\n";
         std::cout << "2 - Обойти граф\n";
-        std::cout << "3 - Построение СНМ(алгоритм Краскала)\n";
+        std::cout << "3 - Построение СНМ\n";
         std::cout << "> ";
         std::cin >> choice;
 
